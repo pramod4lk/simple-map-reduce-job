@@ -28,8 +28,9 @@ yum install scl-utils
 yum install centos-release-scl
 yum install python27
 scl enable python27 bash
-Now, you should be able to
 ```
+
+Now, you should be able to
 
 ```sh
 pip install google-api-python-client==1.6.4
