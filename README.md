@@ -19,7 +19,9 @@ wget http://media.sundog-soft.com/hadoop/ml-100k/u.data
 # Installing mrjob on HDP 2.5
 While going through the next activity, many students are running into an error when entering the command:
 
+```sh
 pip install google-api-python-client==1.6.4
+```
 
 This seems to arise from a mismatch between python-pip and Python 2.6, but I'm not sure why it only happens for some students and not others. If you do run into this, just update your sandbox to Python 2.7 by entering the following commands:
 
