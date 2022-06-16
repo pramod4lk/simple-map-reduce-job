@@ -1,2 +1,2 @@
 # simple-map-reduce-job
-Simple MapR Job
+Simple MapReduce Job
